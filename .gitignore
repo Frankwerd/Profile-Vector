@@ -1,0 +1,20 @@
+# Python virtual environment
+/venv/
+/.venv/
+/env/
+/.env/
+
+# Sensitive files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Runtime generated files (like your output)
+/data/output.csv
+*.csv
