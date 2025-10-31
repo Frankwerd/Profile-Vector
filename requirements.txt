@@ -1,0 +1,6 @@
+pandas
+openpyxl
+google-generativeai
+python-dotenv
+tqdm
+PyQt6
